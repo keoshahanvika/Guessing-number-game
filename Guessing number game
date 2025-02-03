@@ -27,3 +27,42 @@ int main() {
 
     return 0;
 }
+
+
+
+
+INPUT:
+Input 1:
+Welcome to the Number Guessing Game!
+Guess the number between 1 to 100
+Enter your guess : 23
+Output 1:
+Too low! Try again.
+
+Input 2:
+Welcome to the Number Guessing Game!
+Guess the number between 1 to 100
+Enter your guess : 3646
+Output 2:
+Too high! Try again.
+
+Input 3:
+Welcome to the Number Guessing Game!
+Guess the number between 1 to 100
+Enter your guess : 33
+Output 3:
+Too low! Try again.
+
+Input 4:
+Welcome to the Number Guessing Game!
+Guess the number between 1 to 100
+Enter your guess : 25
+Output 4:
+Too low! Try again.
+
+Input 5:
+Welcome to the Number Guessing Game!
+Guess the number between 1 to 100
+Enter your guess : 23
+Output 5:
+Too low! Try again.
